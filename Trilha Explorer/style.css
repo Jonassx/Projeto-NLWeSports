@@ -10,7 +10,7 @@ li{
 
 
 body{
-    background-image: url(./img/background.jpg);
+    background-image: url(./img/Fundo.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -21,16 +21,55 @@ body *{
     font-family: 'inter', sans-serif;
 }
 
-main *{
-    border: 1px solid red;
-}
-
 main{
     max-width: 590px;
     width: 90%;
     margin: auto;
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
 }
 
 section{
     color: white;
+    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    padding-top: 4px;
+    border-radius: 10px;
+}
+
+section div{
+    background-color: #2A2634;
+    padding-top: 24px;
+    padding: 32px;
+    border-radius: 8px;
+}
+
+section h2{
+    letter-spacing: -0.47px;
+}
+
+section p{
+    letter-spacing: -0.18px;
+    color: #A1A1AA;
+}
+
+section ul{
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-top: 24px;
+    
+}
+
+.games-list img{
+    border-radius: 8px;
+    width: 90px;
+    
+}
+
+.channel-list img{
+    width: 70px;
+    border-radius: 50%;
+    
 }
