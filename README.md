@@ -1,6 +1,6 @@
 <h1 align="center">Projeto NLW eSports 🎮 </h1>
 
-> Interface design created by me on Figma : <a href="https://www.figma.com/file/3AbBu6frmkoT4MI23YxjEm/Lading-Page-NLW?node-id=173%3A1">Click here</a>
+> Interface design created by me on Figma : <a href="https://www.figma.com/file/3AbBu6frmkoT4MI23YxjEm/Lading-Page-NLW?node-id=173%3A1" target="_blank">Click here</a>
 
 Meu primeiro projeto que construir utilizando HTML e CSS, fui além do que disponibilizaram nessa edição do NLW pela Rocketseat e construir essa interface.
 
