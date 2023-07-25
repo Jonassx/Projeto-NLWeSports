@@ -3,7 +3,7 @@
 *{
     margin: 0;
     padding: 0;
-    border-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body{
@@ -166,7 +166,7 @@ main section:nth-child(1){
 }
 
 .title-sections{
-    width: 100%%;
+    width: 100%;
     display: flex;
     justify-content: space-between;
 }
@@ -434,10 +434,6 @@ footer div:nth-child(2) img{
 
 
 @media (min-width: 1200px){
-
-    .list-games img{
-
-    }
 
     .list-channels a:nth-child(6){
         display: none;
